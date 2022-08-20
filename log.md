@@ -35,7 +35,8 @@
 
 **Thoughts** I've recently started learning Android, and it feels nice to have basic understanding of how app layout works.
 
-Demo app built:
+Screencap of the demo app built:
+
 <img width="379" alt="image" src="https://user-images.githubusercontent.com/17952490/185722166-3888e9b9-5d85-419b-9f96-5134ea68dbad.png">
 
 **Link(s) to work**
