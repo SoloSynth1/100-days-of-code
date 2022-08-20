@@ -17,7 +17,6 @@
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
--->
 
 ### Day 1: August 19, Friday
 
@@ -28,3 +27,17 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
+
+### Day 1: August 19, Friday
+
+**Today's Progress**: I've gone through two codelabs on Android Basics on layouts - `RecyclerView`, `MaterialCardView`, `GridLayoutManager` & `LinearLayoutManager`.
+
+**Thoughts** I've recently started learning Android, and it feels nice to have basic understanding of how app layout works.
+
+Demo app built:
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/17952490/185722166-3888e9b9-5d85-419b-9f96-5134ea68dbad.png">
+
+**Link(s) to work**
+1. [Use RecyclerView to display a scrollable list](https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list)
+2. [Display a list of images using cards](https://developer.android.com/codelabs/basic-android-kotlin-training-display-list-cards)
