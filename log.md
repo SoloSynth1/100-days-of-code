@@ -42,3 +42,17 @@ Screencap of the demo app built:
 **Link(s) to work**
 1. [Use RecyclerView to display a scrollable list](https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list)
 2. [Display a list of images using cards](https://developer.android.com/codelabs/basic-android-kotlin-training-display-list-cards)
+
+### Day 2: August 20, Saturday
+
+**Today's Progress**: Finished a codelab on testing layout and adapter. Building Dogglers app - still work in progress!
+
+**Thoughts** Good refresher to remind myself about Android App Testing and `ConstraintLayout` mentioned in previous codelabs.
+
+WIP:
+
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/17952490/185785629-93ab2c67-22c6-4947-8d18-5fbf029fcd0f.png">
+
+**Link(s) to work**
+1. [Test Lists and Adapters](https://developer.android.com/codelabs/android-basics-kotlin-affirmations-test-lists-and-adapters)
+2. [Project: Dogglers app](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app)
