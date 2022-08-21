@@ -51,7 +51,7 @@ Screencap of the demo app built:
 
 WIP:
 
-<img width="379" alt="image" src="https://user-images.githubusercontent.com/17952490/185785629-93ab2c67-22c6-4947-8d18-5fbf029fcd0f.png">
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/17952490/185785780-ca5cca60-b0fa-49b2-95e1-0f383af368a1.png">
 
 **Link(s) to work**
 1. [Test Lists and Adapters](https://developer.android.com/codelabs/android-basics-kotlin-affirmations-test-lists-and-adapters)
