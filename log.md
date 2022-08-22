@@ -56,3 +56,17 @@ WIP:
 **Link(s) to work**
 1. [Test Lists and Adapters](https://developer.android.com/codelabs/android-basics-kotlin-affirmations-test-lists-and-adapters)
 2. [Project: Dogglers app](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app)
+
+### Day 3: August 21, Sunday
+
+**Today's Progress**: Finished implementing Dogglers App! Noticed some errors on the pre-written tests, wrote a PR to fix the issues.
+
+**Thoughts** Didn't notice there is a CLA check back when creating PR for another Google's project.😅 The CLA is simple enough to quickly read and sign though.
+
+Screenshot:
+
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/17952490/185818574-5a4ab205-12e5-4de2-8ccc-3da549c0db58.png">
+
+**Link(s) to work**
+1. [Project: Dogglers app](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app)
+2. [PR created](https://github.com/google-developer-training/android-basics-kotlin-dogglers-app/pull/43)
